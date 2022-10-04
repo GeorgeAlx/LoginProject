@@ -1,0 +1,6 @@
+C:\Develop\C#\LoginProject\obj\Debug\LoginProject.esproj.SuggestedBindingRedirects.cache
+C:\Develop\C#\LoginProject\obj\Debug\LoginProject.esproj.CoreCompileInputs.cache
+C:\Develop\CSharp\LoginProject\obj\Debug\LoginProject.esproj.SuggestedBindingRedirects.cache
+C:\Develop\CSharp\LoginProject\obj\Debug\LoginProject.esproj.CoreCompileInputs.cache
+C:\Develop\CSharp\LogProjectFolder\LoginProject\obj\Debug\LoginProject.esproj.SuggestedBindingRedirects.cache
+C:\Develop\CSharp\LogProjectFolder\LoginProject\obj\Debug\LoginProject.esproj.CoreCompileInputs.cache
